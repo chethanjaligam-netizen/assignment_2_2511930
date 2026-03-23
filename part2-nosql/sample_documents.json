@@ -1,0 +1,55 @@
+[
+  {
+    "product_id": "ELEC-99201",
+    "name": "UltraView 27-inch 4K Monitor",
+    "category": "Electronics",
+    "brand": "TechVision",
+    "specifications": {
+      "resolution": "3840x2160",
+      "panel_type": "IPS",
+      "refresh_rate": "144Hz",
+      "ports": ["HDMI 2.1", "DisplayPort 1.4", "USB-C"],
+      "voltage": "110-240V"
+    },
+    "warranty": {
+      "duration_months": 36,
+      "type": "Manufacturer Limited",
+      "service_centers": ["Delhi", "Mumbai", "Bangalore"]
+    },
+    "in_stock": true
+  },
+  {
+    "product_id": "CLOT-44012",
+    "name": "Classic Fit Denim Jacket",
+    "category": "Clothing",
+    "material": "98% Cotton, 2% Elastane",
+    "attributes": {
+      "gender": "Unisex",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": [
+        {"name": "Indigo", "hex": "#2E4053"},
+        {"name": "Light Wash", "hex": "#AED6F1"}
+      ],
+      "care_instructions": ["Machine wash cold", "Tumble dry low"]
+    },
+    "collection": "Spring 2026"
+  },
+  {
+    "product_id": "GROC-11055",
+    "name": "Organic Almond Milk (Unsweetened)",
+    "category": "Groceries",
+    "volume": "1 Liter",
+    "nutritional_info": {
+      "calories": 30,
+      "total_fat": "2.5g",
+      "calcium": "450mg",
+      "allergens": ["Tree Nuts"]
+    },
+    "batch_details": {
+      "manufacture_date": "2026-03-01",
+      "expiry_date": "2026-09-01",
+      "is_perishable": true
+    },
+    "certifications": ["USDA Organic", "Non-GMO Project Verified"]
+  }
+]
